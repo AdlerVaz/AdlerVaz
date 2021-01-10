@@ -9,7 +9,7 @@ I'm not really a developer, more like I'm an aspiring engineer (not computer eng
   </a>
 </div>
 
-### If you are you need support on the codes feel free to join the support server!
+### If you need support on the codes feel free to join the support server!
 ### Stats
 
 <a href='https://github.com/AdlerVaz/'> <img src='https://github-readme-stats.vercel.app/api?username=AdlerVaz&count_private=true&show_icons=true&theme=nightowl'> </a>
