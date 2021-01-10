@@ -1,16 +1,17 @@
-### Hi there 👋
+### Domo Domo, I'm Adler Vaz
 
-<!--
-**AdlerVaz/AdlerVaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm known as Adler , and I love the Coding so mwuch!
+I'm not really a developer, more like I'm an aspiring engineer (not computer enginner) and just coding stuffs for fun!
 
-Here are some ideas to get you started:
+### Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href='https://github.com/AdlerVaz/'> <img src='https://github-readme-stats.vercel.app/api?username=AdlerVaz&count_private=true&show_icons=true&theme=nightowl'> </a>
+
+<p></br></p>
+
+### Pinned Repositories
+
+[![ZeroTwo](https://github-readme-stats.vercel.app/api/pin/?username=AdlerVaz&repo=Discord-Bot-Template&theme=nightowl)](https://github.com/AdlerVaz/Discord-Bot-Template)
+### Most Used Languages
+
+[![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=AdlerVaz&layout=compact&theme=nightowl)](https://github.com/AdlerVaz)
