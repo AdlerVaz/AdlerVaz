@@ -19,6 +19,7 @@ I'm not really a Developer, more like I'm an aspiring engineer (not computer eng
 ### Pinned Repositories
 
 [![Discord-Bot-Template](https://github-readme-stats.vercel.app/api/pin/?username=AdlerVaz&repo=Discord-Bot-Template&theme=nightowl)](https://github.com/AdlerVaz/Discord-Bot-Template)
+[![ModMail-Bot](https://github-readme-stats.vercel.app/api/pin/?username=AdlerVaz&repo=JS&theme=nightowl)](https://github.com/AdlerVaz/JS)
 [![ModMail-Bot](https://github-readme-stats.vercel.app/api/pin/?username=AdlerVaz&repo=ModMail-Bot&theme=nightowl)](https://github.com/AdlerVaz/ModMail-Bot)
 [![Red-Button](https://github-readme-stats.vercel.app/api/pin/?username=AdlerVaz&repo=Red-Button&theme=nightowl)](https://github.com/AdlerVaz/Red-Button)
 ### Most Used Languages
