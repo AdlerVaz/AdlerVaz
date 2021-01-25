@@ -19,8 +19,9 @@ I'm not really a Developer, more like I'm an aspiring engineer (not computer eng
 ### Pinned Repositories
 
 [![Discord-Bot-Template](https://github-readme-stats.vercel.app/api/pin/?username=AdlerVaz&repo=Discord-Bot-Template&theme=nightowl)](https://github.com/AdlerVaz/Discord-Bot-Template)
-[![ModMail-Bot](https://github-readme-stats.vercel.app/api/pin/?username=AdlerVaz&repo=JS&theme=nightowl)](https://github.com/AdlerVaz/JS)
+[![Discord-Js](https://github-readme-stats.vercel.app/api/pin/?username=AdlerVaz&repo=Discord-Js&theme=nightowl)](https://github.com/AdlerVaz/Discord-Js)
 [![ModMail-Bot](https://github-readme-stats.vercel.app/api/pin/?username=AdlerVaz&repo=ModMail-Bot&theme=nightowl)](https://github.com/AdlerVaz/ModMail-Bot)
+[![Discord-Transcript](https://github-readme-stats.vercel.app/api/pin/?username=AdlerVaz&repo=Discord-Transcript&theme=nightowl)](https://github.com/AdlerVaz/Discord-Transcript)
 [![Red-Button](https://github-readme-stats.vercel.app/api/pin/?username=AdlerVaz&repo=Red-Button&theme=nightowl)](https://github.com/AdlerVaz/Red-Button)
 ### Most Used Languages
 
@@ -28,3 +29,4 @@ I'm not really a Developer, more like I'm an aspiring engineer (not computer eng
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=AdlerVaz)
 [![GitHub AdlerVaz](https://img.shields.io/github/followers/AdlerVaz?label=follow&style=social)](https://github.com/AdlerVaz)
+[![Support Server](https://invidget.switchblade.xyz/yuXefsEBcJ)](https://discord.gg/5WqRQYVnjX)
