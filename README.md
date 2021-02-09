@@ -27,7 +27,6 @@ I'm not really a Developer, more like I'm an aspiring engineer (not computer eng
 
 [![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=AdlerVaz&layout=compact&theme=nightowl)](https://github.com/AdlerVaz)
 
-<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=AdlerVaz&theme=dracula&count_private=true"></div>
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=AdlerVaz)
 [![GitHub AdlerVaz](https://img.shields.io/github/followers/AdlerVaz?label=follow&style=social)](https://github.com/AdlerVaz)
 [![Discord](https://img.shields.io/discord/801873765872173087?color=%237289DA&label=Discord&logo=Discord&logoColor=%237289DA)](https://discord.gg/5WqRQYVnjX)
