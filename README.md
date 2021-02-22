@@ -1,6 +1,6 @@
 ### Kon'nichiwa, I'm Adler Vaz
 
-I'm known as Adler , and I love Coding so much!
+Hey its me Adler , and I love Coding so much!
 I'm not really a Developer, more like I'm an aspiring engineer (not computer engineer) and just coding stuffs for fun!
 
 <div align="center">
