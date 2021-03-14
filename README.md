@@ -48,4 +48,3 @@ I'm not really a Developer, more like I'm an aspiring engineer (not computer eng
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=AdlerVaz)
 [![GitHub AdlerVaz](https://img.shields.io/github/followers/AdlerVaz?label=follow&style=social)](https://github.com/AdlerVaz)
 [![Discord](https://img.shields.io/discord/801873765872173087?color=%237289DA&label=Discord&logo=Discord&logoColor=%237289DA)](https://discord.gg/5WqRQYVnjX)
-[![Repos Badge](https://badges.pufler.dev/repos/AdlerVaz)](https://badges.pufler.dev) ![Commits Badge](https://badges.pufler.dev/commits/monthly/AdlerVaz)
